@@ -8,7 +8,7 @@
   apt install python
   git clone https://github.com/zerokit404/XenonKit91.git
   cd XenonKit91
-  make Run
+  make run
   ```
 
 <h2>Peraturan</h2><br>
