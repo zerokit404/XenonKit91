@@ -4,6 +4,7 @@
   ```python
   pkg update
   pkg upgrade
+  pkg install figlet
   apt install git make
   apt install python
   git clone https://github.com/zerokit404/XenonKit91.git
